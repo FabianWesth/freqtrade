@@ -1,0 +1,1 @@
+/home/fabian/personal_projects/mgm/freqtrade-mgm/monigomani/tests/mgm_hurry_interface_test.py
